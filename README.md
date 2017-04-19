@@ -1,4 +1,7 @@
-# test coverage for  [google-translate (v2.0.4)](https://github.com/Localize/node-google-translate)  [![npm package](https://img.shields.io/npm/v/npmtest-google-translate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-google-translate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-google-translate.svg)](https://travis-ci.org/npmtest/node-npmtest-google-translate)
+# npmtest-google-translate
+
+#### test coverage for  [google-translate (v2.0.4)](https://github.com/Localize/node-google-translate)  [![npm package](https://img.shields.io/npm/v/npmtest-google-translate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-google-translate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-google-translate.svg)](https://travis-ci.org/npmtest/node-npmtest-google-translate)
+
 #### Google Translate API for Node.js
 
 [![NPM](https://nodei.co/npm/google-translate.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/google-translate)
