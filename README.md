@@ -1,6 +1,6 @@
 # npmtest-google-translate
 
-#### test coverage for  [google-translate (v2.0.4)](https://github.com/Localize/node-google-translate)  [![npm package](https://img.shields.io/npm/v/npmtest-google-translate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-google-translate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-google-translate.svg)](https://travis-ci.org/npmtest/node-npmtest-google-translate)
+#### basic test coverage for  [google-translate (v2.0.4)](https://github.com/Localize/node-google-translate)  [![npm package](https://img.shields.io/npm/v/npmtest-google-translate.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-google-translate) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-google-translate.svg)](https://travis-ci.org/npmtest/node-npmtest-google-translate)
 
 #### Google Translate API for Node.js
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-google-translate/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-google-translate/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-google-translate/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-google-translate/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-google-translate/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-google-translate/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-google-translate/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-google-translate/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-google-translate/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-google-translate/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-google-translate/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-google-translate/build/coverage.html/index.html)
 
@@ -86,7 +86,8 @@
         "url": "git://github.com/Localize/node-google-translate.git"
     },
     "scripts": {},
-    "version": "2.0.4"
+    "version": "2.0.4",
+    "bin": {}
 }
 ```
 
